@@ -51,7 +51,7 @@ const FeatureHero = () => (
       </h1>
       
       <p className="text-xl text-[#8E8E93] leading-relaxed font-light max-w-2xl mx-auto">
-        From advanced AI analysis to seamless billing, discover how Nexion-ERP transforms your firm&apos;s efficiency.
+        From advanced AI analysis to seamless billing, discover how Logicore-ERP transforms your firm&apos;s efficiency.
       </p>
     </div>
   </section>
@@ -67,7 +67,7 @@ const AI_Analysis_Visual = () => (
         <Brain size={20} />
       </div>
       <div>
-        <p className="text-sm font-bold text-[#1C1C1E]">Nexion-ERP AI Assistant</p>
+        <p className="text-sm font-bold text-[#1C1C1E]">Logicore-ERP AI Assistant</p>
         <p className="text-xs text-[#8E8E93]">Analysis Mode</p>
       </div>
     </div>
@@ -394,7 +394,7 @@ const AIFeatureShowcase = () => (
       <div className="mb-20 text-center max-w-3xl mx-auto">
         <h2 className="text-4xl font-bold text-[#1C1C1E] mb-6 flex items-center justify-center gap-3">
           <Brain className="text-orange-600" size={40} />
-          Nexion-ERP Intelligence
+          Logicore-ERP Intelligence
         </h2>
         <p className="text-xl text-[#8E8E93]">
           Our AI engine doesn&apos;t just process data—it understands the law.

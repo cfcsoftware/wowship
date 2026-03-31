@@ -166,7 +166,7 @@ const ChatBot = () => {
                     <Bot size={18} className="text-white" />
                 </div>
                 <div>
-                    <h4 className="text-white font-bold text-sm leading-tight">Nexion-ERP Assistant</h4>
+                    <h4 className="text-white font-bold text-sm leading-tight">Logicore-ERP Assistant</h4>
                     <div className="flex items-center gap-1.5">
                         <span className="w-1.5 h-1.5 bg-green-400 rounded-full"></span>
                         <p className="text-orange-100 text-[10px] font-medium">Online</p>

@@ -67,7 +67,7 @@ const App: React.FC = () => {
     },
     {
       id: 103,
-      title: "Nexion Vision: Receipt OCR 2.0",
+      title: "Logicore Vision: Receipt OCR 2.0",
       category: "AI Analytics",
       desc: "Next-gen multi-modal engine that understands handwritten notes on receipts and automatically categorizes tax-deductible expenses.",
       status: "Testing",
@@ -211,7 +211,7 @@ const App: React.FC = () => {
     },
     {
       id: 3,
-      title: "Nexion AI Chat Co-Pilot",
+      title: "Logicore AI Chat Co-Pilot",
       category: "Gen-AI",
       desc: "A natural language interface allowing users to type 'Show me sales' and get instant visual charts.",
       status: "Discovery",
@@ -247,7 +247,7 @@ const App: React.FC = () => {
               </div>
               <h1 className="text-4xl font-black tracking-tight text-slate-900">Vision 2026/27</h1>
             </div>
-            <p className="text-slate-500 text-lg font-medium">Nexion Enterprise Ecosystem: Engineering the era of Autonomous Business.</p>
+            <p className="text-slate-500 text-lg font-medium">Logicore Enterprise Ecosystem: Engineering the era of Autonomous Business.</p>
           </div>
           
           <div className="flex flex-wrap gap-2 bg-white p-2 rounded-[2rem] border border-slate-200 shadow-sm">

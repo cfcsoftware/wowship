@@ -183,7 +183,7 @@ export default function App() {
                 <Send size={16} />
               </button>
             </form>
-            <p className="text-center text-[9px] text-slate-400 mt-2 font-medium">Nexion reads encrypted live data. Results are audit-trailed.</p>
+            <p className="text-center text-[9px] text-slate-400 mt-2 font-medium">Logicore reads encrypted live data. Results are audit-trailed.</p>
           </div>
         </div>
       </div>

@@ -29,7 +29,7 @@ const EulaHeader = () => (
         End-User License Agreement
       </h1>
       <p className="text-xl text-[#8E8E93] max-w-2xl mx-auto">
-        Important terms regarding your license to use the Nexion-ERP software platform.
+        Important terms regarding your license to use the Logicore-ERP software platform.
       </p>
       <p className="text-sm font-medium text-orange-600 mt-4">Effective Date: January 1, 2026</p>
     </div>
@@ -45,7 +45,7 @@ const EulaBody = () => {
       content: (
         <>
           <p className="mb-4">
-            Subject to your compliance with these terms, Nexion-ERP Inc. grants you a revocable, non-exclusive, non-transferable, limited license to download, install (if applicable), and use the Nexion-ERP software strictly for your internal professional use related to legal practice management.
+            Subject to your compliance with these terms, Logicore-ERP Inc. grants you a revocable, non-exclusive, non-transferable, limited license to download, install (if applicable), and use the Logicore-ERP software strictly for your internal professional use related to legal practice management.
           </p>
           <p className="mb-4">
             <strong>1.1 Scope:</strong> This license applies to the web application, mobile applications, and any associated APIs provided by Logicore.
@@ -68,7 +68,7 @@ const EulaBody = () => {
           <ul className="list-disc pl-6 mb-4 space-y-2 text-[#48484A]">
             <li>License, sell, rent, lease, assign, distribute, transmit, host, outsource, disclose, or otherwise commercially exploit the Application.</li>
             <li>Modify, make derivative works of, disassemble, decrypt, reverse compile, or reverse engineer any part of the Application.</li>
-            <li>Remove, alter, or obscure any proprietary notice (including any notice of copyright or trademark) of Nexion-ERP or its affiliates.</li>
+            <li>Remove, alter, or obscure any proprietary notice (including any notice of copyright or trademark) of Logicore-ERP or its affiliates.</li>
             <li>Use the Application for any purpose that is illegal or prohibited by applicable law.</li>
           </ul>
         </>
@@ -81,10 +81,10 @@ const EulaBody = () => {
       content: (
         <>
           <p className="mb-4">
-            The Application, including without limitation all copyrights, patents, trademarks, trade secrets, and other intellectual property rights are, and shall remain, the sole and exclusive property of Nexion-ERP Inc.
+            The Application, including without limitation all copyrights, patents, trademarks, trade secrets, and other intellectual property rights are, and shall remain, the sole and exclusive property of Logicore-ERP Inc.
           </p>
           <p>
-            <strong>3.1 Feedback:</strong> If you provide any feedback, suggestions, or comments regarding the Application, you hereby assign to Nexion-ERP all rights in such Feedback and agree that Nexion-ERP shall have the right to use such Feedback and related information in any manner it deems appropriate.
+            <strong>3.1 Feedback:</strong> If you provide any feedback, suggestions, or comments regarding the Application, you hereby assign to Logicore-ERP all rights in such Feedback and agree that Logicore-ERP shall have the right to use such Feedback and related information in any manner it deems appropriate.
           </p>
         </>
       )
@@ -96,10 +96,10 @@ const EulaBody = () => {
       content: (
         <>
           <p className="mb-4">
-            Nexion-ERP may from time to time provide enhancements or improvements to the features/functionality of the Application, which may include patches, bug fixes, updates, upgrades, and other modifications (&quot;Updates&quot;).
+            Logicore-ERP may from time to time provide enhancements or improvements to the features/functionality of the Application, which may include patches, bug fixes, updates, upgrades, and other modifications (&quot;Updates&quot;).
           </p>
           <p>
-            Updates may modify or delete certain features and/or functionalities of the Application. You agree that Nexion-ERP has no obligation to (i) provide any Updates, or (ii) continue to provide or enable any particular features and/or functionalities of the Application to you.
+            Updates may modify or delete certain features and/or functionalities of the Application. You agree that Logicore-ERP has no obligation to (i) provide any Updates, or (ii) continue to provide or enable any particular features and/or functionalities of the Application to you.
           </p>
         </>
       )
@@ -111,10 +111,10 @@ const EulaBody = () => {
       content: (
         <>
           <p className="mb-4">
-            This Agreement shall remain in effect until terminated by you or Logicore. Nexion-ERP may, in its sole discretion, at any time and for any or no reason, suspend or terminate this Agreement with or without prior notice.
+            This Agreement shall remain in effect until terminated by you or Logicore. Logicore-ERP may, in its sole discretion, at any time and for any or no reason, suspend or terminate this Agreement with or without prior notice.
           </p>
           <p className="mb-4">
-            This Agreement will terminate immediately, without prior notice from Nexion-ERP, in the event that you fail to comply with any provision of this Agreement. You may also terminate this Agreement by deleting the Application and all copies thereof from your mobile device or from your computer.
+            This Agreement will terminate immediately, without prior notice from Logicore-ERP, in the event that you fail to comply with any provision of this Agreement. You may also terminate this Agreement by deleting the Application and all copies thereof from your mobile device or from your computer.
           </p>
           <p>
             Upon termination of this Agreement, you shall cease all use of the Application and delete all copies of the Application from your mobile device or from your computer.
@@ -130,11 +130,11 @@ const EulaBody = () => {
         <>
           <div className="bg-red-50 border border-red-100 p-6 rounded-2xl mb-6">
             <p className="text-sm text-red-900 leading-relaxed font-medium">
-              THE APPLICATION IS PROVIDED TO YOU &quot;AS IS&quot; AND &quot;AS AVAILABLE&quot; AND WITH ALL FAULTS AND DEFECTS WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW, Nexion-ERP EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE.
+              THE APPLICATION IS PROVIDED TO YOU &quot;AS IS&quot; AND &quot;AS AVAILABLE&quot; AND WITH ALL FAULTS AND DEFECTS WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW, Logicore-ERP EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE.
             </p>
           </div>
           <p>
-            Without limitation to the foregoing, Nexion-ERP provides no warranty or undertaking, and makes no representation of any kind that the Application will meet your requirements, achieve any intended results, be compatible or work with any other software, applications, systems, or services, operate without interruption, meet any performance or reliability standards, or be error-free.
+            Without limitation to the foregoing, Logicore-ERP provides no warranty or undertaking, and makes no representation of any kind that the Application will meet your requirements, achieve any intended results, be compatible or work with any other software, applications, systems, or services, operate without interruption, meet any performance or reliability standards, or be error-free.
           </p>
         </>
       )

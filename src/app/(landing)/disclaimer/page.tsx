@@ -44,14 +44,14 @@ const DisclaimerBody = () => {
         <>
           <div className="bg-amber-50 border-l-4 border-amber-500 p-6 rounded-2xl mb-6">
             <p className="text-sm text-amber-900 leading-relaxed font-medium">
-              Nexion-ERP IS A SOFTWARE PROVIDER, NOT A LAW FIRM. WE DO NOT PROVIDE LEGAL ADVICE, LEGAL OPINIONS, OR LEGAL REPRESENTATION.
+              Logicore-ERP IS A SOFTWARE PROVIDER, NOT A LAW FIRM. WE DO NOT PROVIDE LEGAL ADVICE, LEGAL OPINIONS, OR LEGAL REPRESENTATION.
             </p>
           </div>
           <p className="mb-4">
-            The information, content, and tools provided on the Nexion-ERP platform, including automated templates, case management features, and AI-generated insights, are for informational and productivity purposes only. They are not intended to be a substitute for professional legal advice from a qualified attorney licensed in your jurisdiction.
+            The information, content, and tools provided on the Logicore-ERP platform, including automated templates, case management features, and AI-generated insights, are for informational and productivity purposes only. They are not intended to be a substitute for professional legal advice from a qualified attorney licensed in your jurisdiction.
           </p>
           <p>
-            Use of Nexion-ERP does not create an attorney-client relationship between you and ogdine Inc. or any of its employees.
+            Use of Logicore-ERP does not create an attorney-client relationship between you and ogdine Inc. or any of its employees.
           </p>
         </>
       )
@@ -86,7 +86,7 @@ const DisclaimerBody = () => {
             Any &quot;Win Probability&quot; scores, case predictions, or outcome forecasts provided by the platform are estimates based on historical data trends. They are <strong>not guarantees</strong> of future results.
           </p>
           <p>
-            Every legal matter is unique and subject to numerous variables including judge discretion, opposing counsel strategy, and evidence availability. Nexion-ERP expressly disclaims any liability for decisions made or actions taken in reliance on such predictions or analytics.
+            Every legal matter is unique and subject to numerous variables including judge discretion, opposing counsel strategy, and evidence availability. Logicore-ERP expressly disclaims any liability for decisions made or actions taken in reliance on such predictions or analytics.
           </p>
         </>
       )
@@ -101,7 +101,7 @@ const DisclaimerBody = () => {
             While we strive to keep the information and legal templates on our platform accurate and up-to-date, laws and regulations change frequently and vary by jurisdiction.
           </p>
           <p>
-            Nexion-ERP makes no warranties, expressed or implied, regarding the accuracy, completeness, reliability, or suitability of the information contained on the platform. Any reliance you place on such information is strictly at your own risk.
+            Logicore-ERP makes no warranties, expressed or implied, regarding the accuracy, completeness, reliability, or suitability of the information contained on the platform. Any reliance you place on such information is strictly at your own risk.
           </p>
         </>
       )
@@ -116,7 +116,7 @@ const DisclaimerBody = () => {
             The Service may contain links to third-party websites, services, or resources (e.g., court dockets, payment processors) that are not owned or controlled by Logicore.
           </p>
           <p>
-            We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third-party websites or services. You acknowledge and agree that Nexion-ERP shall not be responsible or liable, directly or indirectly, for any damage or loss caused by or in connection with the use of such external sites or resources.
+            We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third-party websites or services. You acknowledge and agree that Logicore-ERP shall not be responsible or liable, directly or indirectly, for any damage or loss caused by or in connection with the use of such external sites or resources.
           </p>
         </>
       )

@@ -29,7 +29,7 @@ export const Navbar = () => {
               <UtensilsCrossed className="text-white w-6 h-6" />
             </div>
             <span className="text-xl font-bold text-slate-900 tracking-tight">
-              Nexion-ERP
+              Logicore-ERP
             </span>
           </div>
 

@@ -11,7 +11,7 @@ const Footer = () => (
             <div className="w-8 h-8 bg-orange-600 rounded-lg flex items-center justify-center">
               <UtensilsCrossed className="text-white w-5 h-5" />
             </div>
-            <span className="text-xl font-bold text-slate-900 tracking-tight">Nexion-ERP</span>
+            <span className="text-xl font-bold text-slate-900 tracking-tight">Logicore-ERP</span>
           </div>
           <p className="text-slate-500 mb-6 max-w-sm">
             The ultimate cloud-based Point of Sale, inventory, and enterprise resource management SaaS application built for the all industry.
@@ -55,7 +55,7 @@ const Footer = () => (
       </div>
 
       <div className="pt-8 border-t border-slate-100 flex flex-col md:flex-row justify-between items-center gap-4 w-full">
-        <p className="text-slate-400 text-sm">© {new Date().getFullYear()} Nexion-ERP Inc. All rights reserved.</p>
+        <p className="text-slate-400 text-sm">© {new Date().getFullYear()} Logicore-ERP Inc. All rights reserved.</p>
         <div className="flex gap-6 text-sm text-slate-400">
           <span>Made with Passion</span>
         </div>

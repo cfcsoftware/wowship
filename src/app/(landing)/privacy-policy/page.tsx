@@ -64,7 +64,7 @@ const PrivacyBody = () => {
       content: (
         <>
           <p className="mb-4">
-            Nexion-ERP uses the collected data for the following purposes:
+            Logicore-ERP uses the collected data for the following purposes:
           </p>
           <ul className="list-disc pl-6 mb-4 space-y-2 text-[#48484A]">
             <li>To provide, maintain, and improve our Service.</li>
@@ -83,10 +83,10 @@ const PrivacyBody = () => {
       content: (
         <>
           <p className="mb-4">
-            We do not share your personal information with companies, organizations, or individuals outside of Nexion-ERP except in the following cases:
+            We do not share your personal information with companies, organizations, or individuals outside of Logicore-ERP except in the following cases:
           </p>
           <ul className="list-disc pl-6 mb-4 space-y-2 text-[#48484A]">
-            <li><strong>With Your Consent:</strong> We will share personal information with companies, organizations, or individuals outside of Nexion-ERP when we have your consent to do so.</li>
+            <li><strong>With Your Consent:</strong> We will share personal information with companies, organizations, or individuals outside of Logicore-ERP when we have your consent to do so.</li>
             <li><strong>For Legal Reasons:</strong> We will share personal information if we have a good-faith belief that access, use, preservation, or disclosure of the information is reasonably necessary to meet any applicable law, regulation, legal process, or enforceable governmental request.</li>
             <li><strong>Service Providers:</strong> We may share information with third-party vendors, consultants, and other service providers who need access to such information to carry out work on our behalf (e.g., payment processing, cloud hosting).</li>
           </ul>
@@ -100,12 +100,12 @@ const PrivacyBody = () => {
       content: (
         <>
           <p className="mb-4">
-            We work hard to protect Nexion-ERP and our users from unauthorized access to or unauthorized alteration, disclosure, or destruction of information we hold.
+            We work hard to protect Logicore-ERP and our users from unauthorized access to or unauthorized alteration, disclosure, or destruction of information we hold.
           </p>
           <ul className="list-disc pl-6 mb-4 space-y-2 text-[#48484A]">
             <li>We encrypt our services using SSL/TLS.</li>
             <li>We review our information collection, storage, and processing practices, including physical security measures, to guard against unauthorized access to systems.</li>
-            <li>We restrict access to personal information to Nexion-ERP employees, contractors, and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations.</li>
+            <li>We restrict access to personal information to Logicore-ERP employees, contractors, and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations.</li>
           </ul>
         </>
       )
@@ -126,7 +126,7 @@ const PrivacyBody = () => {
             <li>The right to object to the processing of your personal information.</li>
           </ul>
           <p>
-            To exercise these rights, please contact our Data Protection Officer at Nexion-ERP@cfcsoftware.com.
+            To exercise these rights, please contact our Data Protection Officer at Logicore-ERP@cfcsoftware.com.
           </p>
         </>
       )

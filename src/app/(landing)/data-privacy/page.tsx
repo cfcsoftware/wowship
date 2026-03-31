@@ -46,7 +46,7 @@ const DataPrivacyBody = () => {
       content: (
         <>
           <p className="mb-4">
-            Nexion-ERP employs a <strong>Zero-Trust security model</strong>. Every access request is fully authenticated, authorized, and encrypted before granting access.
+            Logicore-ERP employs a <strong>Zero-Trust security model</strong>. Every access request is fully authenticated, authorized, and encrypted before granting access.
           </p>
           <ul className="list-disc pl-6 mb-4 space-y-2 text-[#48484A]">
             <li><strong>Tenant Isolation:</strong> Every law firm&apos;s data is logically isolated in our multi-tenant database architecture. Cross-tenant data access is mathematically impossible at the database query level.</li>
@@ -80,7 +80,7 @@ const DataPrivacyBody = () => {
         <>
           <div className="bg-emerald-50 border-l-4 border-emerald-500 p-6 rounded-2xl mb-6">
             <p className="text-sm text-emerald-900 leading-relaxed font-medium">
-              <strong>YOUR DATA IS YOURS:</strong> Nexion-ERP does NOT use your confidential client data to train our public foundation models. Your data remains isolated within your instance context.
+              <strong>YOUR DATA IS YOURS:</strong> Logicore-ERP does NOT use your confidential client data to train our public foundation models. Your data remains isolated within your instance context.
             </p>
           </div>
           <p className="mb-4">

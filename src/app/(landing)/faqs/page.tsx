@@ -29,7 +29,7 @@ const FAQHeader = () => (
         Frequently Asked Questions
       </h1>
       <p className="text-xl text-[#8E8E93] max-w-2xl mx-auto">
-        Everything you need to know about Nexion-ERP features, billing, and security.
+        Everything you need to know about Logicore-ERP features, billing, and security.
       </p>
     </div>
   </section>
@@ -43,8 +43,8 @@ const FAQBody = () => {
     {
       category: "General",
       questions: [
-        { q: "What is Nexion-ERP?", a: "Nexion-ERP is an all-in-one legal practice management platform designed for modern law firms. It combines case management, billing, client intake, and advanced AI tools like document drafting and judge analytics into a single operating system." },
-        { q: "Who is Nexion-ERP for?", a: "We serve solo practitioners, boutique firms, and mid-to-large sized organizations. Our platform scales with your needs, offering tailored features for every stage of growth." },
+        { q: "What is Logicore-ERP?", a: "Logicore-ERP is an all-in-one legal practice management platform designed for modern law firms. It combines case management, billing, client intake, and advanced AI tools like document drafting and judge analytics into a single operating system." },
+        { q: "Who is Logicore-ERP for?", a: "We serve solo practitioners, boutique firms, and mid-to-large sized organizations. Our platform scales with your needs, offering tailored features for every stage of growth." },
         { q: "Is there a free trial?", a: "Yes, we offer a 14-day free trial on all plans. No credit card is required to sign up, and you get full access to the features of your chosen tier." },
       ]
     },

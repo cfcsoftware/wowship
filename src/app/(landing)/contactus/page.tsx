@@ -29,7 +29,7 @@ const ContactHero = () => (
         Get in Touch
       </h1>
       <p className="text-xl text-[#8E8E93] max-w-2xl mx-auto">
-        Have questions about Nexion-ERP? Our team is ready to help you streamline your legal practice.
+        Have questions about Logicore-ERP? Our team is ready to help you streamline your legal practice.
       </p>
     </div>
   </section>

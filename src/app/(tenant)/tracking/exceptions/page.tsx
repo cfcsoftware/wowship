@@ -234,7 +234,7 @@ const App = () => {
             </div>
           </div>
           <div className="mt-8 text-center text-[11px] text-[#606B85] font-medium">
-            © 2020-2026 <span className="text-[#F22F46] font-bold">Nexion-ERP</span>. All rights reserved.
+            © 2020-2026 <span className="text-[#F22F46] font-bold">Logicore-ERP</span>. All rights reserved.
           </div>
         </div>
       </div>

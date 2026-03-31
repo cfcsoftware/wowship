@@ -79,7 +79,7 @@ const PricingCards = ({ billingCycle }: { billingCycle: 'monthly' | 'yearly' }) 
       price: billingCycle === 'monthly' ? 1299 : 13599,
       features: [
         "Unlimited Active Cases",
-        "Nexion-ERP AI Suite (Analysis & Drafting)",
+        "Logicore-ERP AI Suite (Analysis & Drafting)",
         "Smart Calendar & Deadlines",
         "Judge Analytics",
         "Advanced Billing & Invoicing",

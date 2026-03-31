@@ -30,7 +30,7 @@ const CookiesHeader = () => (
         Cookie Policy
       </h1>
       <p className="text-xl text-[#8E8E93] max-w-2xl mx-auto">
-        Transparency about how we use cookies to improve your Nexion-ERP experience.
+        Transparency about how we use cookies to improve your Logicore-ERP experience.
       </p>
       <p className="text-sm font-medium text-orange-600 mt-4">Effective Date: January 1, 2026</p>
     </div>
@@ -49,7 +49,7 @@ const CookiesBody = () => {
             Cookies are small text files that are stored on your computer or mobile device when you visit a website. They are widely used to make websites work more efficiently and to provide information to the owners of the site.
           </p>
           <p>
-            Nexion-ERP uses cookies to distinguish you from other users of our platform. This helps us to provide you with a seamless experience when you browse our website and also allows us to improve our platform.
+            Logicore-ERP uses cookies to distinguish you from other users of our platform. This helps us to provide you with a seamless experience when you browse our website and also allows us to improve our platform.
           </p>
         </>
       )
@@ -61,11 +61,11 @@ const CookiesBody = () => {
       content: (
         <>
           <p className="mb-4">
-            These cookies are fundamental to the operation of the Nexion-ERP platform. Without these cookies, services you have asked for cannot be provided.
+            These cookies are fundamental to the operation of the Logicore-ERP platform. Without these cookies, services you have asked for cannot be provided.
           </p>
           <ul className="list-disc pl-6 mb-4 space-y-2 text-[#48484A]">
-            <li><strong>Authentication:</strong> We use cookies to verify your account and determine when you&apos;re logged in, so we can make it easier for you to access the Nexion-ERP services and show you the appropriate experience and features.</li>
-            <li><strong>Security:</strong> We use cookies to help keep your account, data, and the Nexion-ERP services safe and secure.</li>
+            <li><strong>Authentication:</strong> We use cookies to verify your account and determine when you&apos;re logged in, so we can make it easier for you to access the Logicore-ERP services and show you the appropriate experience and features.</li>
+            <li><strong>Security:</strong> We use cookies to help keep your account, data, and the Logicore-ERP services safe and secure.</li>
             <li><strong>Session Management:</strong> To maintain your active session so you don&apos;t have to log in every time you navigate to a new page.</li>
           </ul>
         </>

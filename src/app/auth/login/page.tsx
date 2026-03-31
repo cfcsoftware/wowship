@@ -166,7 +166,7 @@ export default function TenantLoginPage() {
              <div className="w-12 h-12 bg-gradient-to-br from-orange-600 to-orange-600 rounded-xl flex items-center justify-center text-white shadow-lg shadow-orange-500/30 mb-4">
                 <Scale size={24} strokeWidth={3} />
              </div>
-             <h2 className="text-2xl font-bold text-[#1C1C1E]">Nexion-ERP</h2>
+             <h2 className="text-2xl font-bold text-[#1C1C1E]">Logicore-ERP</h2>
           </div>
 
           <div className="mb-10">

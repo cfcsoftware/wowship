@@ -29,7 +29,7 @@ const ToSHeader = () => (
         Terms of Service
       </h1>
       <p className="text-xl text-[#8E8E93] max-w-2xl mx-auto">
-        Guidelines for using the Nexion-ERP platform, APIs, and AI services.
+        Guidelines for using the Logicore-ERP platform, APIs, and AI services.
       </p>
       <p className="text-sm font-medium text-orange-600 mt-4">Effective Date: January 1, 2026</p>
     </div>
@@ -45,7 +45,7 @@ const ToSBody = () => {
       content: (
         <>
           <p className="mb-4">
-            <strong>1.1 Service Level Objective:</strong> Nexion-ERP aims to provide 99.9% uptime for the Service during business hours. While we strive for continuous availability, we do not guarantee that the Service will be uninterrupted or error-free.
+            <strong>1.1 Service Level Objective:</strong> Logicore-ERP aims to provide 99.9% uptime for the Service during business hours. While we strive for continuous availability, we do not guarantee that the Service will be uninterrupted or error-free.
           </p>
           <p className="mb-4">
             <strong>1.2 Maintenance Windows:</strong> We reserve the right to suspend the Service temporarily for scheduled maintenance. We will make reasonable efforts to notify you at least 24 hours in advance of any scheduled downtime that is expected to last more than 30 minutes.
@@ -63,7 +63,7 @@ const ToSBody = () => {
       content: (
         <>
           <p className="mb-4">
-            <strong>2.1 Access Grant:</strong> If your subscription plan includes API access, Nexion-ERP grants you a limited, non-exclusive, non-transferable license to access our APIs solely for your internal business purposes.
+            <strong>2.1 Access Grant:</strong> If your subscription plan includes API access, Logicore-ERP grants you a limited, non-exclusive, non-transferable license to access our APIs solely for your internal business purposes.
           </p>
           <p className="mb-4">
             <strong>2.2 Rate Limits:</strong> API usage is subject to rate limits to ensure the stability of the platform. Exceeding these limits may result in temporary throttling or suspension of API access. Standard limits are 100 requests per minute unless otherwise negotiated in an Enterprise agreement.
@@ -73,7 +73,7 @@ const ToSBody = () => {
           </p>
           <ul className="list-disc pl-6 mb-4 space-y-2 text-[#48484A]">
             <li>Scrape data for the purpose of training third-party AI models.</li>
-            <li>Replicate the core functionality of Nexion-ERP to build a competing service.</li>
+            <li>Replicate the core functionality of Logicore-ERP to build a competing service.</li>
             <li>Attempt to bypass authentication or security mechanisms.</li>
           </ul>
         </>
@@ -86,7 +86,7 @@ const ToSBody = () => {
       content: (
         <>
           <p className="mb-4">
-            <strong>3.1 Your Data:</strong> You retain full ownership of all case files, client information, and documents (&quot;User Data&quot;) you upload to the Service. Nexion-ERP claims no intellectual property rights over your User Data.
+            <strong>3.1 Your Data:</strong> You retain full ownership of all case files, client information, and documents (&quot;User Data&quot;) you upload to the Service. Logicore-ERP claims no intellectual property rights over your User Data.
           </p>
           <p className="mb-4">
             <strong>3.2 Data Protection:</strong> We implement industry-standard security measures, including AES-256 encryption at rest and TLS 1.3 in transit. However, you are responsible for maintaining the security of your own endpoints and account credentials.
@@ -142,7 +142,7 @@ const ToSBody = () => {
       content: (
         <>
           <p>
-            Nexion-ERP is constantly innovating. We may add, change, or remove features or functionality at any time. We will provide reasonable notice for any changes that materially reduce the functionality of the Service. We reserve the right to discontinue the Service entirely with 90 days&apos; notice.
+            Logicore-ERP is constantly innovating. We may add, change, or remove features or functionality at any time. We will provide reasonable notice for any changes that materially reduce the functionality of the Service. We reserve the right to discontinue the Service entirely with 90 days&apos; notice.
           </p>
         </>
       )
@@ -178,7 +178,7 @@ const ToSBody = () => {
         <div className="mt-5 p-2 bg-[#F2F2F7] rounded-[32px] text-center border border-[#E5E5EA]">
           <h3 className="text-xl font-bold text-[#1C1C1E] mb-2">Need clarification on service terms?</h3>
           <p className="text-[#8E8E93] mb-6">Our compliance team is happy to help enterprise customers with custom SLAs.</p>
-          <a href="mailto:Nexion-ERP@cfcsoftware.com" className="inline-flex items-center justify-center px-8 py-3 bg-white text-orange-600 border border-[#E5E5EA] rounded-full font-bold hover:bg-orange-50 transition-colors">
+          <a href="mailto:Logicore-ERP@cfcsoftware.com" className="inline-flex items-center justify-center px-8 py-3 bg-white text-orange-600 border border-[#E5E5EA] rounded-full font-bold hover:bg-orange-50 transition-colors">
             ogdine@cfcsoftware.com
           </a>
         </div>

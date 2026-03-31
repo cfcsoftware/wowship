@@ -110,7 +110,7 @@ const NotFoundPage = () => {
             animationDelay: '0.55s'
           }}>
             Oops! Looks like the page you were hungry for isn&#39;t on the menu.<br />
-            Head back to Nexion-ERP and discover our delicious dishes!
+            Head back to Logicore-ERP and discover our delicious dishes!
           </div>
           <div className="ogdine-fade-in" style={{animationDelay: '0.7s'}}>
             <Link href="/" legacyBehavior>

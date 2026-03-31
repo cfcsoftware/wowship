@@ -41,7 +41,7 @@ const CancelRefundBody = () => {
       content: (
         <>
           <p className="mb-4">
-            You may cancel your Nexion-ERP subscription at any time directly from your account dashboard or by contacting our support team.
+            You may cancel your Logicore-ERP subscription at any time directly from your account dashboard or by contacting our support team.
           </p>
           <ul className="list-disc pl-6 mb-4 space-y-2 text-[#48484A]">
             <li><strong>Effect of Cancellation:</strong> If you cancel your subscription, your account will remain active until the end of your current billing period. After that period ends, your account will be downgraded to a read-only state or suspended, depending on your data retention choices.</li>
@@ -58,7 +58,7 @@ const CancelRefundBody = () => {
       content: (
         <>
           <p className="mb-4">
-            Nexion-ERP operates on a prepaid subscription basis.
+            Logicore-ERP operates on a prepaid subscription basis.
           </p>
           <div className="bg-orange-50 border-l-4 border-orange-500 p-6 rounded-2xl mb-6">
             <p className="text-sm text-orange-900 leading-relaxed font-medium">
