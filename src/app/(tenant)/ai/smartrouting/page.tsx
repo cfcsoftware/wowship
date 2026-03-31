@@ -110,7 +110,7 @@ export default function LeadScoring() {
             </div>
             <div>
               <h1 className="text-lg font-bold text-slate-800 flex items-center gap-2">
-                Nexion AI Lead Scoring
+                Logicore AI Lead Scoring
               </h1>
               <p className="text-[11px] text-slate-500 font-medium flex items-center gap-1 uppercase tracking-wider">
                 <ShieldCheck size={12} className="text-emerald-500" />
@@ -277,7 +277,7 @@ export default function LeadScoring() {
                   </div>
                   <h4 className="text-lg font-bold mb-2">Next Best Action</h4>
                   <p className="text-xs text-indigo-100/70 leading-relaxed mb-6">
-                    Based on Sarah's recent activity, she's comparing Nexion with competitors. Send the "Enterprise Comparison Deck" within the next 2 hours for maximum impact.
+                    Based on Sarah's recent activity, she's comparing Logicore with competitors. Send the "Enterprise Comparison Deck" within the next 2 hours for maximum impact.
                   </p>
                 </div>
                 <button className="w-full py-3 bg-white text-indigo-900 rounded-xl font-bold text-xs hover:bg-indigo-50 transition-all flex items-center justify-center gap-2">

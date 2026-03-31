@@ -63,11 +63,11 @@ export default function App() {
             </div>
             <div>
               <h1 className="text-lg font-bold text-slate-800 flex items-center gap-2">
-                Nexion AI Insights: Financial Forecast
+                Logicore AI Insights: Financial Forecast
               </h1>
               <p className="text-[11px] text-slate-500 font-medium flex items-center gap-1">
                 <ShieldCheck size={12} className="text-emerald-500" />
-                Live Ledger Sync Active • Model: Nexion-Predict-v4
+                Live Ledger Sync Active • Model: Logicore-Predict-v4
               </p>
             </div>
           </div>
