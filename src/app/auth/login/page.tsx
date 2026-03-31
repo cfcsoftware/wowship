@@ -19,7 +19,7 @@ import {
 
 // Helper function to fetch domain using Hospital ID (Mapped to Firm ID in UI)
 async function fetchDomainByHospitalId(hospitalId: string): Promise<{ domain: string; firm_name: string }> {
-  const base_url = process.env.NEXT_PUBLIC_BASE_URL || "https://Nexion-ERP.in/server";
+  const base_url = process.env.NEXT_PUBLIC_BASE_URL || "https://logicore.in/server";
   if (!base_url) {
     throw new Error("Base URL is not defined in environment variables.");
   }

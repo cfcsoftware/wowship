@@ -48,7 +48,7 @@ const EulaBody = () => {
             Subject to your compliance with these terms, Nexion-ERP Inc. grants you a revocable, non-exclusive, non-transferable, limited license to download, install (if applicable), and use the Nexion-ERP software strictly for your internal professional use related to legal practice management.
           </p>
           <p className="mb-4">
-            <strong>1.1 Scope:</strong> This license applies to the web application, mobile applications, and any associated APIs provided by Nexion-ERP.
+            <strong>1.1 Scope:</strong> This license applies to the web application, mobile applications, and any associated APIs provided by Logicore.
           </p>
           <p>
             <strong>1.2 Seats:</strong> The license is limited to the number of user seats (&quot;Attorneys&quot; or &quot;Staff&quot;) specified in your subscription plan. Sharing credentials to exceed seat limits is strictly prohibited.
@@ -111,7 +111,7 @@ const EulaBody = () => {
       content: (
         <>
           <p className="mb-4">
-            This Agreement shall remain in effect until terminated by you or Nexion-ERP. Nexion-ERP may, in its sole discretion, at any time and for any or no reason, suspend or terminate this Agreement with or without prior notice.
+            This Agreement shall remain in effect until terminated by you or Logicore. Nexion-ERP may, in its sole discretion, at any time and for any or no reason, suspend or terminate this Agreement with or without prior notice.
           </p>
           <p className="mb-4">
             This Agreement will terminate immediately, without prior notice from Nexion-ERP, in the event that you fail to comply with any provision of this Agreement. You may also terminate this Agreement by deleting the Application and all copies thereof from your mobile device or from your computer.

@@ -69,7 +69,7 @@ const FAQBody = () => {
       questions: [
         { q: "Is my data secure?", a: "Security is our top priority. We use AES-256 encryption for data at rest and TLS 1.3 for data in transit. Our infrastructure is hosted on SOC 2 Type II compliant servers with regular third-party audits." },
         { q: "Where is my data stored?", a: "For Indian customers, data is stored in AWS Mumbai (ap-south-1) to comply with data localization norms. Global customers are hosted in their respective regions." },
-        { q: "Who owns the data I upload?", a: "You retain 100% ownership of all data, documents, and client information you upload to Nexion-ERP. We claim no intellectual property rights over your material." },
+        { q: "Who owns the data I upload?", a: "You retain 100% ownership of all data, documents, and client information you upload to Logicore. We claim no intellectual property rights over your material." },
       ]
     }
   ];

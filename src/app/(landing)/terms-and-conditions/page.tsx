@@ -46,7 +46,7 @@ const TermsBody = () => {
       content: (
         <>
           <p className="mb-4">
-            By accessing, registering for, or using the services provided by <strong>Nexion-ERP Inc.</strong> (&quot;Nexion-ERP&quot;, &quot;we&quot;, &quot;us&quot;, or &quot;our&quot;) via the website <strong>Nexion-ERP.in</strong> (the &quot;Site&quot;) and its related applications and services (collectively, the &quot;Service&quot;), you (&quot;User&quot;, &quot;Subscriber&quot;, or &quot;you&quot;) agree to be bound by these Terms and Conditions (&quot;Terms&quot;).
+            By accessing, registering for, or using the services provided by <strong>Logicore Inc.</strong> (&quot;Logicore&quot;, &quot;we&quot;, &quot;us&quot;, or &quot;our&quot;) via the website <strong>Logicor Inc</strong> (the &quot;Site&quot;) and its related applications and services (collectively, the &quot;Service&quot;), you (&quot;User&quot;, &quot;Subscriber&quot;, or &quot;you&quot;) agree to be bound by these Terms and Conditions (&quot;Terms&quot;).
           </p>
           <p className="mb-4 font-semibold text-[#1C1C1E]">
             IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THE SERVICE.

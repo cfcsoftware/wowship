@@ -113,7 +113,7 @@ const DisclaimerBody = () => {
       content: (
         <>
           <p className="mb-4">
-            The Service may contain links to third-party websites, services, or resources (e.g., court dockets, payment processors) that are not owned or controlled by Nexion-ERP.
+            The Service may contain links to third-party websites, services, or resources (e.g., court dockets, payment processors) that are not owned or controlled by Logicore.
           </p>
           <p>
             We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third-party websites or services. You acknowledge and agree that Nexion-ERP shall not be responsible or liable, directly or indirectly, for any damage or loss caused by or in connection with the use of such external sites or resources.

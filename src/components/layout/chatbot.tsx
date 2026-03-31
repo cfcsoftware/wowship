@@ -63,7 +63,7 @@ const ChatBot = () => {
   const [messages, setMessages] = useState<Message[]>([
     { 
       type: 'bot', 
-      text: "Hello! Welcome to Nexion-ERP.", 
+      text: "Hello! Welcome to Logicore.", 
       options: MENUS['main'].options 
     }
   ]);
