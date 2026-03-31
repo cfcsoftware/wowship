@@ -299,7 +299,7 @@ const TenantSidebar = () => {
             <div className="w-8 h-8 bg-indigo-600 rounded-lg flex items-center justify-center text-white shadow-md">
               <Scale size={18} />
             </div>
-            <span className="font-bold text-[16px] tracking-tight text-slate-800">Nexion ERP</span>
+            <span className="font-bold text-[16px] tracking-tight text-slate-800">Logicore</span>
           </div>
         )}
         <button 
