@@ -10,8 +10,8 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-  title: "Nexion-ERP",
-  description: "AI Enabled SaaS Platform for Legal Professionals",
+  title: "Logicore",
+  description: "AI Enabled SaaS Platform for logistic management system",
 };
 
 export default function RootLayout({
